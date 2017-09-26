@@ -3,7 +3,7 @@ html {
 }
 
 .body {
-  background-image: linear-gradient(to bottom, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8))
+  background-image: linear-gradient(to bottom, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8));
 }
 
 .masthead {
