@@ -2,10 +2,6 @@ html {
   font-family: Lora, serif;
 }
 
-.body {
-  background-image: linear-gradient(to bottom, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8));
-}
-
 .masthead {
   background-color: #588477;
   background-image: url("../images/leaf-bg.svg");
@@ -44,10 +40,13 @@ html {
 }
 
 .banner {
+  background-image: linear-gradient(to bottom, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8));
+
   background-image: url("../images/banner.jpg");
   background-size: cover;
-  padding-top: 50%;
+  padding-top: 55%;
   background-repeat: no-repeat;
+  background-position: top;
 }
 
 .banner-content {
